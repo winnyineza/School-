@@ -83,4 +83,4 @@ So you have to do this in the frontend. After this the project will run smoothly
 * Render - server side
 * Netlify - client side
 
-[# Live Demo](https://realschoolmanagementsystem.netlify.app/)
+## [Live Demo](https://realschoolmanagementsystem.netlify.app/)

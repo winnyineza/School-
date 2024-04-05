@@ -28,6 +28,11 @@ The School Management System is a web-based application built using the MERN (Mo
 
 - **Communication:** Users can communicate effortlessly through the system. Teachers can send messages to students and vice versa, promoting effective communication and collaboration.
 
+## Accounts
+- **Student:** **Email:** aristote@alu.com **Password:** aristote
+- **Teacher:** **Email:** Isia2@alu.com **Password:** isiaq24@alu
+- **Admin:** **Email:** winny@alu.com **Password:** winny
+
 ## Technologies Used
 
 - Frontend: React.js, Material UI, Redux
